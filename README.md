@@ -1,8 +1,11 @@
 # bitcoin_toprank
-Top 10000 bitcoin address and balance
+Top 10000 bitcoin address and balance update monthly
 
-# Bitcoin Top Rank
-https://img.shields.io/github/downloads/www222fff/bitcoin_toprank/total
-https://img.shields.io/github/downloads/www222fff/bitcoin_toprank/latest/total
-https://img.shields.io/github/v/release/www222fff/bitcoin_toprank
-https://img.shields.io/github/stars/www222fff/bitcoin_toprank
+# Donate & Support
+If this project helps you and you'd like to support its development, consider making a donation:
+
+💰 Cryptocurrency Donations
+![Bitcoin]: bc1plafrutx7a88tqxvnjtypgmsgzrml63ax43dvhgnuzjzhhaqaec6sqdwkxk
+
+📱 Alipay (支付宝)
+![Alipay QR Code](./assets/alipay-qrcode.png)
