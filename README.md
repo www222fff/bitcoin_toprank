@@ -1,9 +1,8 @@
 # bitcoin_toprank
-Top 10000 bitcoin address and balance update monthly
+Top 10000 bitcoin address and balance update monthly, more detailed you can go to https://btcrank.site/
 
 # Donate & Support
 If this project helps you and you'd like to support its development, consider making a donation:
-
 
 📱 Alipay (支付宝):
 
