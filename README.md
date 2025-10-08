@@ -8,4 +8,4 @@ If this project helps you and you'd like to support its development, consider ma
 bc1plafrutx7a88tqxvnjtypgmsgzrml63ax43dvhgnuzjzhhaqaec6sqdwkxk
 
 📱 Alipay (支付宝):
-![Alipay QR Code](./assets/alipay-qrcode.png)
+<img src="https://raw.githubusercontent.com/www222fff/bitcoin_toprank/main/assets/alipay-qrcode.png" width="200" height="200">
