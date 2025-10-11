@@ -2,8 +2,15 @@
 Top 10000 bitcoin address and balance update monthly, more detailed you can go to https://btcrank.site/
 
 # Features
-1. Watch btc whale latest ranking update per block.
-2. Monitor btc whale activity per block.
+Want to know who’s the richest in crypto or who owns the most Bitcoin?
+Check out btcrank.site
+ — a live tracker that:
+ 
+1️⃣ Updates BTC whale rankings every block.
+
+2️⃣ Monitors whale wallet activity in real time.
+
+Stay ahead of the market by watching the whales move 🐋💰
    
 <img src="https://raw.githubusercontent.com/www222fff/bitcoin_toprank/main/assets/demo.gif" width="700" height="400">
 
